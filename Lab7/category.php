@@ -5,5 +5,6 @@
     <form action="comedy.php"><button class="button">Comedy</button></form><br>
 	<form action="romance.php"><button class="button">Romance</button></form><br>
 	<form action="horror.php"><button class="button">Horror</button></form>
+	<form action="romance.php"><button class="button">Comedy</button></form>
 </div>
 <?php include ('includes/footer.html'); ?>
